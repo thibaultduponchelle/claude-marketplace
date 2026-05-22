@@ -1,0 +1,8 @@
+{
+  "name": "42",
+  "description": "Reply 42 to any interaction",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thibault Duponchelle"
+  }
+}
