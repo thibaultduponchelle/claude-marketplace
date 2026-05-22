@@ -1,0 +1,16 @@
+{
+  "name": "tib",
+  "version": "1.0.0",
+  "description": "A marketplace of Claude Code skills",
+  "owner": {
+    "name": "Thibault Duponchelle",
+    "email": "thibault.duponchelle@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "42",
+      "source": "./skills/forty-two",
+      "description": "Replies 42 to any question"
+    }
+  ]
+}
